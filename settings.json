@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Server_Owner:afk",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Server_Owner:afk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "xmpsmp.aternos.me",
+    "port": 36278,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Don´t steal ",
+        "I´m afk ",
+        "Don´t grief "
       ]
     },
     "chat-log": true,
